@@ -1,7 +1,6 @@
 ### Contacts:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='30'>](novoselovboris602@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/scarletshroud)
 <div align="left">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=ckaf&theme=react&layout=compact"/>
 </div>
