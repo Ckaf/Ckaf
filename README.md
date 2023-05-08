@@ -1,4 +1,7 @@
-### Hi there 👋
+### Contacts:
+[<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='30'>](novoselovboris602@gmail.com)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **Ckaf/Ckaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
